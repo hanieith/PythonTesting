@@ -1,4 +1,4 @@
-from start import division
+from my_funcs.start import division
 import pytest
 
 
